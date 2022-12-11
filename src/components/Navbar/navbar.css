@@ -1,0 +1,46 @@
+.navbar{
+    height: 80px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    padding: 10px 20px;
+     background-color: #C3CFDB;
+     color: #fff;
+   
+}
+.navbarwrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     
+    
+}
+.navLogo img{
+    height: 50px;
+    width: 300px;
+}
+.navMenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.menu{
+    
+}
+.link{
+    text-decoration: none;
+    color:black;
+    font-size: 18px;
+}
+
+.userInfo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     color: tomato;
+     gap: 10px;
+   
+}
+.link{
+    text-decoration: none;
+    list-style: none;
+}

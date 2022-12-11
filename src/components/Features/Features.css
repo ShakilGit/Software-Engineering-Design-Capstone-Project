@@ -1,0 +1,33 @@
+.Fearures {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  background-color: #c7bfbf rgba(0, 0, 0, 0);
+}
+.Fearures img {
+  width: 100vw;
+  height: 100vh;
+}
+.details {
+  position: absolute;
+  top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: transparent;
+  flex-wrap: wrap;
+  gap: 20px;
+  cursor: pointer;
+}
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #fff;
+  width: 250px;
+  border-radius: 5px;
+  gap: 15px;
+  font-size: 20px;
+}
